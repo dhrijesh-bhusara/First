@@ -1,0 +1,6 @@
+Checkout API returning 500 error.
+
+Users cannot place orders. The /checkout endpoint
+throws TypeError: cannot read property 'price' of undefined.
+
+This started after the latest deployment.
